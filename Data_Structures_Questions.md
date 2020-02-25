@@ -3,9 +3,9 @@ Answer the following questions for each of the data structures you implemented a
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
-
+o(n)
 2. What is the runtime complexity of `dequeue`?
-
+o(n)
 3. What is the runtime complexity of `len`?
 
 ## Binary Search Tree
