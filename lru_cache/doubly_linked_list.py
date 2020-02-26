@@ -25,6 +25,10 @@ class ListNode:
         current_prev = self.prev
         self.prev = ListNode(value, current_prev, self)
         if current_prev:
+  
+  
+  
+  
             current_prev.next = self.prev
 
     """Rearranges this ListNode's previous and next pointers

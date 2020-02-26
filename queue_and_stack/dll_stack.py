@@ -9,7 +9,7 @@ class Stack:
         # self.storage = ?
 
     def push(self, value):
-        return self.storage.add_to_tail(ListNode(value))
+        return self.storage.add_to_tail(value)
 
     def pop(self):
         return self.storage.remove_from_tail()
