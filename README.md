@@ -13,6 +13,7 @@ Stretch Goals:
  * AVL Trees
  * Heaps
 
+
 ## Tasks
 * Day 1 In Class:  `doubly_linked_list`
 * Day 1 Homework:  `queue_and_stack`
